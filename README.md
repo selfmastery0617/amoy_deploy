@@ -18,3 +18,8 @@ npx hardhat ignition deploy ./ignition/modules/Lock.ts
 ```
 https://medium.com/@benttick/deploying-your-first-smart-contract-on-polygon-pos-amoy-testnet-clocktowertech-io-805a86bb2222
 ```
+
+**Get Contract Source Code for Verified Contract Source Codes**
+```
+https://docs.polygonscan.com/api-endpoints/contracts
+```
